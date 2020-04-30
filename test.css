@@ -33,3 +33,9 @@ div.hobby-list{
     width: 300px;
     text-align: left;
 }
+div.end{
+    background-color: #FFFFFF;
+    height: 170px;
+    width: 200px;
+    color: #ffffff;
+}
