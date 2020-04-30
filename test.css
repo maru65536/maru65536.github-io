@@ -1,17 +1,27 @@
 @charset "UTF-8";
 body {
     background: #bbbbbb;
+    
 }
-div {
-    background: #404040;
-    width: 1000px;
-    height:800px;
-    padding: 10px;
-    color: white;
+div {;
     text-align: center;
-    border: 3px solid #aacccc;
     margin: 30px auto;
 }
-.hoge {
-    width:1000px;
+div.top-text {
+    color: white;
+    background: #404040;
+    height:700px;
+    width: 1000px;
+    padding: 10px;
+}
+div.main{
+    width:1200px;
+    margin:20px auto;
+}
+div.main-text{
+    background-color:#ffffff;
+    display: inline-block;
+    width:550px;
+    height:720px;
+    margin:30px 15px;
 }
