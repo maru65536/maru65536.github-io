@@ -14,6 +14,9 @@ div.top-text {
     width: 1000px;
     padding: 10px;
 }
+div.space{
+    height:20px;
+}
 div.main{
     width:1200px;
     margin:20px auto;
@@ -21,7 +24,12 @@ div.main{
 div.main-text{
     background-color:#ffffff;
     display: inline-block;
+    vertical-align: top;
     width:550px;
     height:720px;
     margin:30px 15px;
+}
+div.hobby-list{
+    width: 300px;
+    text-align: left;
 }
